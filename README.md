@@ -12,3 +12,15 @@ Umai - 線上廚藝課程平台
 <hr>
 
 ![主廚頁面02](https://user-images.githubusercontent.com/90586292/146681747-e832a503-3a3f-4c45-9391-46dd6b01326b.png)
+
+<hr>
+下方是該主廚所開的課程
+<hr>
+
+![主廚頁面03](https://user-images.githubusercontent.com/90586292/146681798-2c73d23a-8bce-4ede-908b-947e1e7f372c.png)
+
+<hr>
+按載入更多可以看到更多資料(一次三筆)
+<hr>
+
+![主廚頁面04](https://user-images.githubusercontent.com/90586292/146681841-663c545d-78ff-4a73-a7af-c80f6428df51.png)
