@@ -24,3 +24,20 @@ Umai - 線上廚藝課程平台
 <hr>
 
 ![主廚頁面04](https://user-images.githubusercontent.com/90586292/146681841-663c545d-78ff-4a73-a7af-c80f6428df51.png)
+
+<hr>
+點擊卡片愛心可以進行該課程收藏(需登入)
+<hr>
+
+![主廚頁面05](https://user-images.githubusercontent.com/90586292/146681928-ad7491c5-f9af-4c01-980b-2fae9bca9420.png)
+<hr>
+![主廚頁面06](https://user-images.githubusercontent.com/90586292/146681937-1b7c7923-358e-4503-885d-7bea1e0b50d5.png)
+<hr>
+![主廚頁面07](https://user-images.githubusercontent.com/90586292/146681946-bdbe160c-0681-4dca-827d-1e06ab14ea1b.png)
+
+<hr>
+只要收藏過的課程，愛心就會一直亮著，當登出時會清空所有卡片愛心，登入後就能看到之前按的卡片愛心
+<hr>
+
+
+
